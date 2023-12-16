@@ -6,7 +6,7 @@ navbar.innerHTML = `<div data-elementor-type="wp-post" data-elementor-id="433" c
 	data-element_type="container"
 	data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;content_width&quot;:&quot;boxed&quot;}"
 	data-core-v316-plus="true">
-	<div class="e-con-inner">
+	<div class="e-con-inner"  style="display: flex; justify-content: space-between;">
 		<div class="elementor-element elementor-element-97f9680 e-con-full e-flex e-con e-child"
 			data-id="97f9680" data-element_type="container"
 			data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
@@ -31,7 +31,7 @@ navbar.innerHTML = `<div data-elementor-type="wp-post" data-elementor-id="433" c
 							vertical-align: middle;
 							display: inline-block
 						}
-					</style> <a href="#">
+					</style> <a href="/">
 						<img fetchpriority="high" height="200"
 							src="/assets/logo-text.svg"
 							class="elementor-animation-grow attachment-large size-large wp-image-62" alt=""
@@ -74,51 +74,22 @@ navbar.innerHTML = `<div data-elementor-type="wp-post" data-elementor-id="433" c
 								<li id="menu-item-10"
 									class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content"
 									data-vertical-menu=750px><a href="#"
-										class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Pages<i
+										class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Team<i
 											class="icon icon-down-arrow1 elementskit-submenu-indicator"></i></a>
 									<ul class="elementskit-dropdown elementskit-submenu-panel">
 										<li id="menu-item-757"
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../appointment/index.html"
-												class=" dropdown-item">Appointment</a>
-										<li id="menu-item-761"
-											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-761 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../doctors/index.html"
-												class=" dropdown-item">Doctors</a>
-										<li id="menu-item-760"
-											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-760 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../doctor-detail/index.html"
-												class=" dropdown-item">Doctor Detail</a>
-										<li id="menu-item-762"
-											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-762 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../faqs/index.html"
-												class=" dropdown-item">FAQs</a>
-										<li id="menu-item-764"
-											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-764 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../packages/index.html"
-												class=" dropdown-item">Packages</a>
-										<li id="menu-item-767"
-											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-767 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../testimonial/index.html"
-												class=" dropdown-item">Testimonial</a>
-										<li id="menu-item-758"
-											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-758 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../blog/index.html"
-												class=" dropdown-item">Blog</a>
-										<li id="menu-item-768"
-											class="menu-item menu-item-type-post_type menu-item-object-post menu-item-768 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a
-												href="../2023/09/28/can-creatine-supplements-help-people/index.html"
-												class=" dropdown-item">Single Post</a>
-										<li id="menu-item-755"
-											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-755 nav-item elementskit-mobile-builder-content"
-											data-vertical-menu=750px><a href="../404-page/index.html"
-												class=" dropdown-item">404 Page</a>
+											data-vertical-menu=750px><a href="/dr-sanjeev-nayak/"
+												class=" dropdown-item">Dr. Sanjeev Nayak</a>
+										<li id="menu-item-757"
+											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757 nav-item elementskit-mobile-builder-content"
+											data-vertical-menu=750px><a href="/dr-vijay-jeganath/"
+												class=" dropdown-item">Dr. Vijay Jeganath</a>
 									</ul>
 								</li>
 								<li id="menu-item-759"
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-759 nav-item elementskit-mobile-builder-content"
-									data-vertical-menu=750px><a href="../contact/index.html"
+									data-vertical-menu=750px><a href="../contact/"
 										class="ekit-menu-nav-link">Contact</a></li>
 							</ul>
 							<div class="elementskit-nav-identity-panel">
@@ -126,7 +97,7 @@ navbar.innerHTML = `<div data-elementor-type="wp-post" data-elementor-id="433" c
 									<a class="elementskit-nav-logo" href="../index.html" target="_self"
 										rel="">
 										<img width="1002" height="356"
-											src="/wp-content/uploads/sites/156/2023/09/logo_Asset-1-1.png"
+											src="/assets/logo-text.svg"
 											class="attachment-full size-full" alt="" decoding="async"
 											srcset="https://askproject.net/meddic/wp-content/uploads/sites/156/2023/09/logo_Asset-1-1.png 1002w, https://askproject.net/meddic/wp-content/uploads/sites/156/2023/09/logo_Asset-1-1-300x107.png 300w, https://askproject.net/meddic/wp-content/uploads/sites/156/2023/09/logo_Asset-1-1-768x273.png 768w, https://askproject.net/meddic/wp-content/uploads/sites/156/2023/09/logo_Asset-1-1-800x284.png 800w"
 											sizes="(max-width: 1002px) 100vw, 1002px" />
@@ -142,7 +113,7 @@ navbar.innerHTML = `<div data-elementor-type="wp-post" data-elementor-id="433" c
 				</div>
 			</div>
 		</div>
-		<div class="elementor-element elementor-element-ae3f4a5 e-con-full e-flex e-con e-child"
+		<div class="elementor-element elementor-element-ae3f4a5 e-con-full e-flex e-con e-child" style="display: none;"
 			data-id="ae3f4a5" data-element_type="container"
 			data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 			<div class="elementor-element elementor-element-f8f5da2 elementor-widget__width-auto de_scroll_animation_no elementor-widget elementor-widget-elementskit-header-info"
@@ -203,7 +174,7 @@ footer.innerHTML = `
 			<div class="elementor-element elementor-element-1392c19 de_scroll_animation_no elementor-widget elementor-widget-text-editor"
 				data-id="1392c19" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit.</p>
+					<p>Improving Care Through Innovation</p>
 				</div>
 			</div>
 			<div class="elementor-element elementor-element-89c177e elementor-shape-square e-grid-align-left e-grid-align-tablet-center elementor-grid-0 de_scroll_animation_no elementor-widget elementor-widget-social-icons"
@@ -555,8 +526,11 @@ footer.innerHTML = `
 						<li class="elementor-icon-list-item">
 							<a href="#">
 
-								<span class="elementor-icon-list-text">034 Erling Knolls, Lake Kenny <br>
-									North Dakota 8902</span>
+								<span class="elementor-icon-list-text">
+								The Maltings 2 Anderson Road, <br/>
+								Bearwood, Birmingham,<br/>
+								B66 4AR, United Kingdom
+								</span>
 							</a>
 						</li>
 					</ul>
@@ -574,14 +548,12 @@ footer.innerHTML = `
 					<ul class="elementor-icon-list-items">
 						<li class="elementor-icon-list-item">
 							<a href="#">
-
-								<span class="elementor-icon-list-text">+1 (234) 567 890</span>
+								<span class="elementor-icon-list-text">+44 7813685324</span>
 							</a>
 						</li>
 						<li class="elementor-icon-list-item">
-							<a href="#">
-
-								<span class="elementor-icon-list-text">example@mail.com</span>
+							<a href="mailto:sirrius.uk@gmail.com">
+								<span class="elementor-icon-list-text">sirrius.uk@gmail.com</span>
 							</a>
 						</li>
 					</ul>
@@ -636,7 +608,7 @@ footer.innerHTML = `
 			</div>
 		</div>
 		<div class="elementor-element elementor-element-eb0a303 e-con-full e-flex e-con e-child"
-			data-id="eb0a303" data-element_type="container"
+			data-id="eb0a303" data-element_type="container" style="display: none;"
 			data-settings="{&quot;content_width&quot;:&quot;full&quot;}">
 			<div class="elementor-element elementor-element-c43885a de_scroll_animation_no elementor-widget elementor-widget-heading"
 				data-id="c43885a" data-element_type="widget" data-widget_type="heading.default">
